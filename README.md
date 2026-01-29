@@ -63,11 +63,6 @@ A cross-platform desktop application built with **wxPython** for interactive aud
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/Fanvsego/wx-audio-image-lab.git
-   cd wx-audio-image-lab
-   ```
-
 2. **Create a virtual environment**
 
    ```bash
